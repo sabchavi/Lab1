@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="page_identifier">Page Identifier</string>
+    <string name='student_data'>Student Data</string>
+    <string name="close">Close</string>
+
+</resources>
